@@ -1,5 +1,4 @@
-branch data modified
+MODIFYING LINE 1
 MODIFICATION happened
 DOING MODIFICATION FOR THIS LINE
-line 2
 modification line 5 modified
