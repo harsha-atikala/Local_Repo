@@ -1,1 +1,1 @@
-line entry of branch
+branch line entry
