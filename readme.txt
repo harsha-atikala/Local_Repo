@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-branch entry
-=======
-master txt
->>>>>>> master
+master data
