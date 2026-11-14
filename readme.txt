@@ -1,7 +1,7 @@
 MODIFYING LINE 1
 MODIFICATION happened
 DOING MODIFICATION FOR THIS LINE
-Deletion of code of lines here
+Deletion of code of gines here
 MODIFICATION LINE 5
 MODIFICATION LINE 6
 modification ine 7
